@@ -1,3 +1,3 @@
-import Info from './components/iteminfo.jsx';
+import Info from './components/pageInfo.jsx';
 
 window.Info = Info;
