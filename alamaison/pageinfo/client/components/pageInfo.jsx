@@ -1,4 +1,11 @@
-import React from 'react';
+function sum(a, b) {
+  return a + b;
+}
+module.exports = sum;
+
+
+
+/*import React from 'react';
 
 const infoStyle = {
   float: 'left',
@@ -64,3 +71,4 @@ export default class Info extends React.Component {
     );
   }
 }
+*/
